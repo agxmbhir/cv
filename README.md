@@ -1,1 +1,61 @@
-# cv
+!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+<title>Agam Gambhir</title>
+</head>
+<marquee direction="left">Looking back my life has been nothing, but disappointment.</marquee>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="Agam1.png" width="100" height="125"></td>
+      <td>  <font color="red">
+        <h1>Agam Gambhir</h1>
+      </font>
+      <h3>CEO of <a href="https://www.instagram.com/agxmbhir/">Anxiety</a></h3>
+      <dl><dt>Contact:</dt><dd>mail:agambhir5656@gmail.com</dd></DL></td>
+    </tr>
+  </table>
+
+<hr size="3">
+<dl>
+  <dt><b>Qualities</b></dt>
+  <dd>Honesty</dd>
+  <dd>isnt that enough!?</dd>
+</dl>
+<footer>
+  <a href="instructions.html" target="_blank">Save Agam</a>
+</footer>
+<hr>
+<h3>Skills</h3>
+<table cellspacing="10">
+<tr>
+  <td>HTML</td>
+  <TD>✨✨</TD>
+  <td>Procrastination</td>
+  <td>✨✨✨✨✨</td>
+</tr>
+  <tr>
+  <td>communication</td>
+  <td>✨✨✨</td>
+  <td>whining</td>
+  <td>✨✨✨✨✨</td>
+</tr>
+</table>
+
+</body>
+</html>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
